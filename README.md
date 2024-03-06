@@ -1,1 +1,1 @@
-# Notebooks for CMPE302 class
+# Notebooks for the CMPE302 Lab
